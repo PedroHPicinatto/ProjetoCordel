@@ -1,3 +1,3 @@
 # ProjetoCordel
  
-fiz esteProjeto com a ajuda do Prof. Gustavo Guanabara
+fiz este Projeto com a ajuda do Prof. Gustavo Guanabara
